@@ -85,16 +85,16 @@ function draw() {
 }
 
 function moveup() {
-    andary -= velocidade
+    andarY -= velocidade
 }
 function moveDown() {
-    andary += velocidade
+    andarY += velocidade
 }
 function moveLeft() {
-    andarx -= velocidade
+    andarX -= velocidade
 }
 function moveRight() {
-    andarx += velocidade
+    andarX += velocidade
 }
 
 function reset() {
