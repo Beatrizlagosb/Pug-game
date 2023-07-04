@@ -1,0 +1,18 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    display: block;
+}
+
+button {
+    padding: 30px;
+    background-color: #64642f;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    margin-right: 3px;
+}
